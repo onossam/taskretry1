@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_0x!%-t5#lq+&7*s9t#1@#t%h(64n6!sy79btb7n37oz1c3=p+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['taskdp2live-cli.herokuapp.com',"127.0.0.1"]
+ALLOWED_HOSTS = ['task26-cli.herokuapp.com',"127.0.0.1"]
 
 
 # Application definition
